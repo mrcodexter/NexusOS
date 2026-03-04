@@ -1,0 +1,7 @@
+{
+  "name": "NexusOS: Sovereign Hub",
+  "description": "An Autonomous Digital Nation (ADN) integrating DeFi, AI Agents, Infrastructure, and Governance into a unified decentralized ecosystem.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
